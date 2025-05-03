@@ -40,8 +40,8 @@ export default function TestimonialsSection() {
             What Our Customers Say
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Hear from the restaurants, markets, and seafood lovers who trust Nyanja Fisheries 
-            for their premium seafood needs.
+            Hear from the restaurants, markets, and fish lovers across Uganda who trust Nyanja Fisheries
+            for their premium freshwater Tilapia.
           </p>
         </motion.div>
         
